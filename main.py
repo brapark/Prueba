@@ -19,7 +19,7 @@ API = 'https://api.reiyuura.me/api/dl/ig?url='
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # TikTok Video URL Types , You Can Add More to This :)
-TikTok_Link_Types= ['https://instagram.com']
+TikTok_Link_Types= ['https://www.instagram.com']
 
 # ParseMode Type For All Messages
 _ParseMode=ParseMode.MARKDOWN
