@@ -1,0 +1,13 @@
+{
+  "name": "TokBot",
+  "description": "Un bot de telegram para TikTok",
+  "repository": "https://github.com/brapark/TokBot",
+  "logo": "https://telegra.ph/file/7dffef16cf45c940feebd.png",
+  "keywords": ["telegram", "bot", "api", "tiktok", "tiktok-api"],
+  "env": {
+    "BOT_TOKEN": {
+            "description": "API Token para tu bot de Telegram (Obtenlo en @BotFather)",
+            "required": true
+    }
+  }
+}
